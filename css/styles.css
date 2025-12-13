@@ -88,6 +88,11 @@ ul {
   cursor: pointer;
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+
 /* ---Features--- */
 
 /* ---team--- */
